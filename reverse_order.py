@@ -1,4 +1,3 @@
-import Add_Book
 info = input("Her hansi bir ifade daxil edin:")
 
 info_list = list(info)
